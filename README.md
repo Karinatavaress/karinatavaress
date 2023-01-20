@@ -1,4 +1,6 @@
-
+<b> Olá, eu sou Karina Tavares, Desenvolvedora Front-end ツ
+ 
+<br><br> 
 <div align="center">
 
 <div> 
