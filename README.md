@@ -7,7 +7,8 @@
 
 <div> 
               <a href = "mailto:karinasousatavares02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-                <a href="https://karinatavaress.github.io/portfolio/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fbr%2Fsearch%2Fimages%3Fk%3D%2522portfolio%2520icon%2522&psig=AOvVaw15fAw_0d6Q2ilUfL3vGYvM&ust=1690245212917000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCNj54KKMpoADFQAAAAAdAAAAABAE" target="_blank"></a> 
+                <a href="https://karinatavaress.github.io/portfolio/" target="_blank"><img src="![image](https://github.com/Karinatavaress/karinatavaress/assets/102122525/58d66377-20fa-4404-bf98-4681d8c48ec4)
+" target="_blank"></a> 
 </div>
 <br>
 
